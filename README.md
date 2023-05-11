@@ -18,4 +18,4 @@ In this question, we analyze the factors of median value of owner-occupied homes
 
 The goal of this problem is to use appropriate attributes in "crim, zn, indus, chas, nox, rm, age, dis, rad, tax, ptratio, b, lstat" to predict the last attribute "medv".
 
-I finished the data clearning, visulization, modeling, classification and result analysis in the Jupyter notebook. Please go to it for details.
+I finished the data clearning, visualization, modeling, classification by linear regression and result analysis in the Jupyter notebook. Please go to it for details.
